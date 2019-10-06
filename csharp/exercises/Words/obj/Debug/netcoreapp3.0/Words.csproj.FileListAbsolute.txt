@@ -1,0 +1,11 @@
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words.deps.json
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words.runtimeconfig.json
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words.runtimeconfig.dev.json
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words.dll
+/Users/erictaylor/workspace/csharp/exercises/Words/bin/Debug/netcoreapp3.0/Words.pdb
+/Users/erictaylor/workspace/csharp/exercises/Words/obj/Debug/netcoreapp3.0/Words.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/Words/obj/Debug/netcoreapp3.0/Words.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/Words/obj/Debug/netcoreapp3.0/Words.AssemblyInfo.cs
+/Users/erictaylor/workspace/csharp/exercises/Words/obj/Debug/netcoreapp3.0/Words.dll
+/Users/erictaylor/workspace/csharp/exercises/Words/obj/Debug/netcoreapp3.0/Words.pdb
