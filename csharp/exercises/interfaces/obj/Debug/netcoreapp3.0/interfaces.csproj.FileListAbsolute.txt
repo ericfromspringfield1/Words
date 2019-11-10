@@ -1,0 +1,3 @@
+/Users/erictaylor/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.0/interfaces.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.0/interfaces.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.0/interfaces.AssemblyInfo.cs

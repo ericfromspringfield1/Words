@@ -1,0 +1,10 @@
+.navBar {
+    border: 1px dashed black;
+    background-color: goldenrod;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: monospace;
+}

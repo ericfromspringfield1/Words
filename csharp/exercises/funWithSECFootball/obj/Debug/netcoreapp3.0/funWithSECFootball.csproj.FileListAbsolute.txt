@@ -1,0 +1,11 @@
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball.deps.json
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball.runtimeconfig.json
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball.runtimeconfig.dev.json
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball.dll
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/bin/Debug/netcoreapp3.0/funWithSECFootball.pdb
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/obj/Debug/netcoreapp3.0/funWithSECFootball.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/obj/Debug/netcoreapp3.0/funWithSECFootball.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/obj/Debug/netcoreapp3.0/funWithSECFootball.AssemblyInfo.cs
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/obj/Debug/netcoreapp3.0/funWithSECFootball.dll
+/Users/erictaylor/workspace/csharp/exercises/funWithSECFootball/obj/Debug/netcoreapp3.0/funWithSECFootball.pdb

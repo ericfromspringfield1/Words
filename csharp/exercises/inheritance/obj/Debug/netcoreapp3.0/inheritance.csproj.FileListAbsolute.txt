@@ -1,0 +1,11 @@
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance.deps.json
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance.runtimeconfig.json
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance.runtimeconfig.dev.json
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance.dll
+/Users/erictaylor/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.0/inheritance.pdb
+/Users/erictaylor/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.0/inheritance.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.0/inheritance.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.0/inheritance.AssemblyInfo.cs
+/Users/erictaylor/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.0/inheritance.dll
+/Users/erictaylor/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.0/inheritance.pdb
